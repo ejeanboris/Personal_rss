@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Daily Quote</title>
+		<link>www.rehounou.ca</link>
+		<description>Personal Site</description>
+		<language>en-us</language>
+		<copyright><![CDATA[ Remi ]]></copyright>
+		<image>
+			<url>https://icon-library.com/images/label-icon-png/label-icon-png-15.jpg</url>
+			<title>Daily Quote</title>
+			<link>www.rehounou.ca</link>
+		</image>
+		<item>
+			<title>Quote#1</title>
+			<link>rehounou.ca/quotes/1</link>
+			<pubDate>Sat, 3 Oct 2020 12:00:00 GMT</pubDate>
+			<author>Ejeanboris</author>
+			<category>Personal</category>
+			<description><![CDATA[ 
+			<h1>Quote#1</h1>
+			Defense Mechanisms: Displacement, Intellectualization, Projection, Regression, Rationalization, Sublimation, Passive Agression
+			]]></description>
+		</item>
+	</channel>
+</rss>
